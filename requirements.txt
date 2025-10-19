@@ -1,0 +1,6 @@
+feedparser
+tiktoken
+sentence-transformers
+chromadb
+langchain
+pandas
